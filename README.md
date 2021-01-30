@@ -3,6 +3,7 @@
 ___
 
 ![Map](/img/lab2-map.png "Tweets regarding the recent stock market activity.")
+### Tweets from 7-7:30PM PST regarding Gamestop and the recent stock market phenomenon
 
 - Location: I scraped tweets globally, but since there were only a few tweets regarding the U.S. stock market outside the U.S., I ended up centering the map only on the United States. I decided to scrape tweets globally to glean a larger dataset, as I was having trouble amassing enough tweets about this situation. Even with a 10 minute stream, I still have a small dataset. One major cause of this is that even though I scraped thousands of relevant tweets, only a small fraction of them were geotagged.
 
